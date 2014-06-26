@@ -4,7 +4,7 @@
 
 * openl10n.io
 * symfony l20n
-* <form accept-charset="utf-8">
+* &lt;form accept-charset="utf-8"&gt;
 * charset in HTTP headers & html <meta>
 * replace gettext by MessageFormatter (gettext is )
 * mysqld.ini => default to utf8
