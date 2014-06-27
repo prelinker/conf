@@ -42,7 +42,7 @@
 * symfony l20n
 * `<form accept-charset="utf-8">`;
 * charset in HTTP headers & html <meta>
-* replace gettext by MessageFormatter (gettext is )
+* replace gettext by MessageFormatter (gettext is not thread-safe)
 * mysqld.ini => default to utf8
 
 ## [Tests unitaires](http://fr.slideshare.net/CyrilleGrandval/phptour-lyon-2014-je-veux-mes-80-de-couverture-de-code) ##
