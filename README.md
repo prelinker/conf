@@ -47,21 +47,20 @@
 
 ## [Tests unitaires](http://fr.slideshare.net/CyrilleGrandval/phptour-lyon-2014-je-veux-mes-80-de-couverture-de-code) ##
 
-[Roue de Deming](http://fr.wikipedia.org/wiki/Roue_de_Deming)
-[Atoum](https://github.com/atoum/)
-
-__Un test unitaire doit rester unitaire__ (aucune dépendance)
+* [Roue de Deming](http://fr.wikipedia.org/wiki/Roue_de_Deming)
+* [Atoum](https://github.com/atoum/)
+* __Un test unitaire doit rester unitaire__ (aucune dépendance)
 
 ## [L'asynchrone](https://speakerdeck.com/odolbeau/asynchronous-tasks-in-php) ##
 
-Ex : Mot de passe oublié
-Publisher > Broker > Worker(s)
-Gérer l'arret des workers (pour la mise à jour, par ex)
+* Ex : Mot de passe oublié
+* Publisher > Broker > Worker(s)
+* Gérer l'arret des workers (pour la mise à jour, par ex)
 
 ## [Gérer sa dette technique](http://jolicode.github.io/phptour-2014--dette-technique--conf/) ##
 
-Faire de la veille : Source map (css) éviter de complexifier l'archi. encore faut-il le savoir
-Checker les confs sur la ré-écriture de zéro ([François Zaninotto](http://fr.slideshare.net/francoisz/php-100k), Thomas Rabaix)
+* Faire de la veille : Source map (css) éviter de complexifier l'archi. encore faut-il le savoir
+* Checker les confs sur la ré-écriture de zéro ([François Zaninotto](http://fr.slideshare.net/francoisz/php-100k), Thomas Rabaix)
 
 ## [Docker](https://speakerdeck.com/thierrymarianne/developper-et-packager-une-application-symfony2-avec-docker) ##
 
