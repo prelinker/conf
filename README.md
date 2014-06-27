@@ -71,7 +71,7 @@
 
 ## Lightning talks ##
 
-* [Les 42 protips du dev' PHP](http://ternel.github.io/42-protips-2014-conf/)
+* [Les 42 protips du dev' PHP](http://ternel.github.io/42-protips-2014-conf/?full#coverpage)
 * [logstash](http://logstash.net/)
 * [phpstack](http://dunkels.com/adam/phpstack/)
 * [etckeeper](https://github.com/joeyh/etckeeper)
